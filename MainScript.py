@@ -1,0 +1,3 @@
+# comming soon ...
+# Will ONLY read saved login credentials in creds.txt and after it going to try to LOG INTO.
+# and returns some info if credentials is true.
